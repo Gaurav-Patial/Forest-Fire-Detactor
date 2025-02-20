@@ -17,7 +17,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ForestFireDetector extends JFrame {
-    private static final String API_KEY = "8078d4895c421a2ec09dcf0dc8eadd1b";//"752d709e1160302167e98b14fd06ecb8";
+    private static final String API_KEY = "Add API_Key";
     private static final String WEATHER_API_URL = "https://api.openweathermap.org/data/2.5/weather";
     private static final String AQI_API_URL = "http://api.openweathermap.org/data/2.5/air_pollution";
 
